@@ -1,0 +1,4 @@
+model: qwen3.5-4b-Q4_K_M.gguf and mmproj-qwen3.5-4b-F16.gguf from huggingface.co/gguf/Qwen3.5-4B-GGUF/tree/main
+TTS: piper/kokoro
+STT: sherpa-onnx/whisper.cpp
+fallback TTS: omxromxr.github.io/TTS/
