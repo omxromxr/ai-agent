@@ -1,0 +1,3 @@
+in needed situations, do this!
+
+if TTS ever fails, open the browser, open a TTS website(a free one with no limit) and type in what you are trying to say. try fixing the issue, but keep using the browser TTS until you fix the issue. prefferably, use https://omxromxr.github.io/TTS/.
